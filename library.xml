@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="library.xsl"?>
+
+<library>
+    
+    <book id="b1">
+        <title>Бегущий в Лабиринте</title>
+        <rack idref="r1">
+            <genre>Художественная литература</genre>
+            <theme>Фантастика</theme>
+        </rack>
+        <authors>
+            <author>Дэшнер Джеймс</author>
+        </authors>
+        <editorialOffice>Neoclassic</editorialOffice>
+        <numbersOfCopies>
+            <total>10</total>
+            <issued>3</issued>
+        </numbersOfCopies>
+    </book>
+    <book id="b2">
+        <title>Тень и кость</title>
+        <rack idref="r2">
+            <genre>Художественная литература</genre>
+            <theme>Фэнтези</theme>
+        </rack>
+        <authors>
+            <author>Бардуго Ли</author>
+        </authors>
+        <editorialOffice>Mainstream</editorialOffice>
+        <numbersOfCopies>
+            <total>7</total>
+            <issued>4</issued>
+        </numbersOfCopies>
+    </book>
+    <book id="b3">
+        <title>Легенды и мифы Древней Греции и Древнего Рима</title>
+        <rack idref="r3">
+            <genre>Художественная литература</genre>
+            <theme>Мифы. Фольклор</theme>
+        </rack>
+        <authors>
+            <author>Кун Николай Альбертович</author>
+        </authors>
+        <editorialOffice>ОГИЗ</editorialOffice>
+        <numbersOfCopies>
+            <total>2</total>
+            <issued>0</issued>
+        </numbersOfCopies>
+    </book>
+    <book id="b4">
+        <title>Кресло на чердаке</title>
+        <rack idref="r4">
+            <genre>Художественная литература</genre>
+            <theme>Детективы</theme>
+        </rack>
+        <authors>
+            <author>Александрова Наталья Николаевна</author>
+        </authors>
+        <editorialOffice>Жанры</editorialOffice>
+        <numbersOfCopies>
+            <total>6</total>
+            <issued>1</issued>
+        </numbersOfCopies>
+    </book>
+    <book id="b5">
+        <title>Огненный перст</title>
+        <rack idref="r5">
+            <genre>Художественная литература</genre>
+            <theme>Современная проза</theme>
+        </rack>
+        <authors>
+            <author>Акунин Борис</author>
+        </authors>
+        <editorialOffice>Акунин Борис</editorialOffice>
+        <numbersOfCopies>
+            <total>3</total>
+            <issued>2</issued>
+        </numbersOfCopies>
+    </book>
+    <book id="b6">
+        <title>Тайна двух реликвий</title>
+        <rack idref="r6">
+            <genre>Художественная литература</genre>
+            <theme>Исторический роман</theme>
+        </rack>
+        <authors>
+            <author>Миропольский Дмитрий</author>
+        </authors>
+        <editorialOffice>Времена</editorialOffice>
+        <numbersOfCopies>
+            <total>4</total>
+            <issued>4</issued>
+        </numbersOfCopies>
+    </book>
+    <book id="b7">
+        <title>Зов Ктулху</title>
+        <rack idref="r7">
+            <genre>Художественная литература</genre>
+            <theme>Мистика</theme>
+        </rack>
+        <authors>
+            <author>Лавкрафт Говард Филлипс</author>
+        </authors>
+        <editorialOffice>Времена</editorialOffice>
+        <numbersOfCopies>
+            <total>12</total>
+            <issued>6</issued>
+        </numbersOfCopies>
+    </book>
+    <book id="b8">
+        <title>Возвращение блудного Покрышкина</title>
+        <rack idref="r8">
+            <genre>Художественная литература</genre>
+            <theme>Юмор и сатира</theme>
+        </rack>
+        <authors>
+            <author>Гримская Марта Игоревна</author>
+        </authors>
+        <editorialOffice>Межиздат</editorialOffice>
+        <numbersOfCopies>
+            <total>4</total>
+            <issued>2</issued>
+        </numbersOfCopies>
+    </book>
+    <book id="b9">
+        <title>Ночные стражи</title>
+        <rack idref="r9">
+            <genre>Художественная литература</genre>
+            <theme>Детская и подростковая литература</theme>
+        </rack>
+        <authors>
+            <author>Кэтрин Ласки</author>
+        </authors>
+        <editorialOffice>Mainstream</editorialOffice>
+        <numbersOfCopies>
+            <total>1</total>
+            <issued>1</issued>
+        </numbersOfCopies>
+    </book>
+    <book id="b10">
+        <title>Темная сторона Хюгге</title>
+        <rack idref="r5">
+            <genre>Художественная литература</genre>
+            <theme>Современная проза</theme>
+        </rack>
+        <authors>
+            <author>Норс Дорта</author>
+            <author>Вайце Шарлотта</author>
+            <author>Хёг Питер</author>
+            <author>Ляйне Ким</author>
+            <author>Хелле Хелле</author>
+            <author>Блендструп Йенс</author>
+        </authors>
+        <editorialOffice>Mainstream</editorialOffice>
+        <numbersOfCopies>
+            <total>5</total>
+            <issued>0</issued>
+        </numbersOfCopies>
+    </book>
+
+</library>
